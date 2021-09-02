@@ -1,3 +1,7 @@
-module.exports = {
-    singleQuote: false,
-}
+{
+	"semi": true,
+	"trailingComma": "all",
+	"singleQuote": true,
+	"printWidth": 120,
+	"arrowParens": "avoid"
+  }
